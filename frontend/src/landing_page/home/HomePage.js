@@ -11,6 +11,7 @@ import OpenAccount from '../OpenAccount';
 function HomePage() {
     return (
         <>
+            <h1 className="visually-hidden">Zerodha Clone Home Page</h1>
             <Hero />
             <Awards />
             <Stats />
